@@ -48,5 +48,8 @@ These contracts are provided as-is, without any guarantees of functionality or s
 ### License:
 This code is licensed under the [MIT License](LICENSE).
 
+## Author
+
+Gururaj Mahansheetar
 
 Thank you for using our ERC20 and Vault contracts! We appreciate your interest and feedback.
